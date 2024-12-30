@@ -299,7 +299,7 @@ public class SendMailNew
 		List<String> lines = new LinkedList<String>();
 		
 		String user = "AN533260AD";
-		String pwd = "XZaXa28L7fqE65S4X-!S";
+		String pwd = "e9Mse!XsJ!gF4JF8D4WS";
 
 
 		//String user = "srcfnprdauto";
